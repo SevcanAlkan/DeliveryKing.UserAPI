@@ -1,0 +1,8 @@
+[submodule "DeliveryKing.ViewModel"]
+	path = DeliveryKing.ViewModel
+	url = https://github.com/SevcanAlkan/DeliveryKing.ViewModel.git
+	branch = develop
+[submodule "DeliveryKing.Core"]
+	path = DeliveryKing.Core
+	url = https://github.com/SevcanAlkan/DeliveryKing.Core.git
+	branch = develop
